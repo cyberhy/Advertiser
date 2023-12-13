@@ -5,8 +5,8 @@ from config import *
 
 init(autoreset=True)
 
-Token = "TokenHere"
 
+Token = input("Your token>")
 ChannelID = input("Channel ID>")
 Message = input("Message>")
 Delay = input("Delay>")
