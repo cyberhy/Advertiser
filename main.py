@@ -1,7 +1,6 @@
 import requests
 import time
 from colorama import Fore, init
-from config import *
 
 init(autoreset=True)
 
